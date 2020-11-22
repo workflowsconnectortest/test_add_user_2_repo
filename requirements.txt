@@ -1,0 +1,6 @@
+pytest
+selenium
+jsonschema
+pylint
+flake8
+chromedriver-py==86.0.4240.22
